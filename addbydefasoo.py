@@ -4,7 +4,7 @@
 # In[1]:
 
 
-a=10
+a=15
 b=5
 c=a+b
 print(c)
